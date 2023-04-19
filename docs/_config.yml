@@ -1,0 +1,7 @@
+name: My Docsify Site
+description: This is a sample Docsify site.
+repo: https://github.com/Vishnu221-hash/newerdemo
+loadNavbar: true
+loadSidebar: true
+auto2top: true
+theme: vue
